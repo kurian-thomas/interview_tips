@@ -1,0 +1,50 @@
+1)keep an updated resume and valid id proof in the mail
+
+2) make resume simple and plain
+
+3) may or may not 
+
+----------------------------------------------OUTLINE OF RESUME-------------------------------------------------
+|Name																								contact no  |
+|																									alternate no|
+|email 																											| 
+|																												|
+|career objective (general):																					|
+|	to attain a better position through constant leraning,assosiations and perseverance in the field of computer| 
+|	science and engineering and reach newer heights in career 													|
+|																												|
+|educational qualification(table)																				|
+|	course 	institute %of marks																					|
+|																												|
+|techinical skills:																								|
+|	certifications 																								|
+|	projects handeled :																							|
+|		title 																									|
+|		duration 																								|
+|		team size 																								|
+|		project tools 																							|
+|		summary																									|
+| 	work experience and IV																						|
+| 																												|
+|extra curricular activites 																					|
+|	achievements(no medals or prize ):state or national level acienevments school adn college level 			|
+|personal details																								|
+|	dob																											|
+|	fathers name 																								|
+|	nationality 																								|
+|	marital status																								|
+|	languages known																								|
+|	hobbies/interests																							|
+|	addrs																										|
+|																												|
+|																												|
+|personal declaration																							|
+|	i,hearby decalre that the given knowledge is ture to the best of my knowledge 								|
+|																												|
+|referance :																									|
+|	principle																									|
+|	HOD																											|
+|	contant name                                                                                                |
+|	contact number (office)																						|
+|	preferabble time for contact 																				|
+|-----------------------------------************************************-----------------------------------------
